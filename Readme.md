@@ -11,6 +11,8 @@ Additional Configuration values used:
     AWS_ACCESS_KEY = ""
     # the Amazon Web Services secret of the used access key
     AWS_SECRET_KEY = ""
+    # S3 Bucket
+    STORAGE_BUCKET = ""
 
 
 
