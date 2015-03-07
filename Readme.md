@@ -11,10 +11,12 @@ Additional Configuration values used:
     AWS_ACCESS_KEY = ""
     # the Amazon Web Services secret of the used access key
     AWS_SECRET_KEY = ""
-    # S3 Bucket
+    # S3 Bucket for `thumbor_aws.storages.s3_storage`
     STORAGE_BUCKET = ""
+    # S3 Bucket for `thumbor_aws.result_storages.s3_storage`
     RESULT_STORAGE_BUCKET = ""
-
+    # S3 Bucket for `thumbor_aws.loaders.s3_loader`
+    S3_LOADER_BUCKET = ""
 
 
     # configuration settings specific for the s3_loader
