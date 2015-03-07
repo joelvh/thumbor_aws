@@ -13,6 +13,7 @@ Additional Configuration values used:
     AWS_SECRET_KEY = ""
     # S3 Bucket
     STORAGE_BUCKET = ""
+    RESULT_STORAGE_BUCKET = ""
 
 
 
